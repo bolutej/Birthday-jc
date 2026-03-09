@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Love favicon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff9ec8" />
+      <stop offset="100%" stop-color="#ff5fa7" />
+    </linearGradient>
+    <linearGradient id="heart" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#ffe6f2" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="url(#bg)" />
+  <circle cx="17" cy="17" r="3" fill="#ffd7ea" opacity="0.9" />
+  <circle cx="47" cy="15" r="2.2" fill="#ffd7ea" opacity="0.9" />
+  <circle cx="50" cy="47" r="2.5" fill="#ffd7ea" opacity="0.85" />
+  <path
+    d="M32 52C32 52 12 39 12 24C12 16 18 10 26 10C30.8 10 34.9 12.5 37 16.3C39.1 12.5 43.2 10 48 10C56 10 62 16 62 24C62 39 42 52 42 52Z"
+    fill="url(#heart)"
+  />
+</svg>
